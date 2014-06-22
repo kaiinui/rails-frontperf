@@ -26,6 +26,12 @@ Helpers
 =====
 - provides a indicator to check whether rails cache (Russian Doll) is hit.
 
+Offline Support
+=====
+- provides a way to handle AppCache easier
+- localStorage & sync
+- helper: provides a way to simulate ugly network. (always slow and often stops)
+
 Future
 ======
 
